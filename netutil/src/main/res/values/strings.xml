@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetUtil</string>
+    <string name="toast_service_connect_fail">服务器连接失败</string>
+    <string name="toast_response_time_out">超时响应</string>
+    <string name="toast_service_error">服务器错误</string>
+    <string name="network_request_error">网络请求错误</string>
+</resources>
